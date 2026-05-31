@@ -30,6 +30,7 @@ print("d:", d)
 ```
 
 ## Output
-![alt text](<Screenshot 2025-10-19 133210.png>)
+<img width="1907" height="1012" alt="image" src="https://github.com/user-attachments/assets/058201b3-12cb-4542-b88a-64b28d4ae0f2" />
+
 ## Result
 The program successfully evaluates boolean and arithmetic expressions involving True and False and displays the correct results.
